@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+{Jens};Full-Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm Jens;DataScientist;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 <h1 align="center">
@@ -14,16 +14,10 @@
 
 ## 🚀 About Me
 
-I'm a passionate **{your_profession}** from **{your_location}** with a love for creating innovative solutions and contributing to open-source projects.
+I'm a passionate **Data Scientist** from **Waibstadt** with a love for creating innovative solutions and contributing to open-source projects.
 
-- 🔭 I'm currently working on **{current_project}**
-- 🌱 I'm currently learning **{learning_technologies}**
-- 👯 I'm looking to collaborate on **{collaboration_interests}**
-- 🤔 I'm looking for help with **{help_needed}**
-- 💬 Ask me about **{expertise_areas}**
-- 📫 How to reach me: **{email}**
-- 😄 Pronouns: **{pronouns}**
-- ⚡ Fun fact: **{fun_fact}**
+- 🌱 I'm currently learning **Git**
+
 
 ## 🛠️ Tech Stack
 
